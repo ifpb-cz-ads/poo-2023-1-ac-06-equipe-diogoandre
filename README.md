@@ -2,11 +2,11 @@
 
 **1) Escreva um modelo para representar uma lâmpada que está à venda em um supermercado. Que dados devem ser representados por esse modelo?**
 
-R: Modelo Lâmpada deve possuir algumas características como o o tipo da lâmpada, se é led, flourescente ou incadescente, por exemplo. Além disso, é necessário haver informações como a cor que libera e consumo de Watts. E deve execer a função de ligar e desligar.
+R: <img src="modelo-lamp.png" alt="Minha Figura">
 
 **2) Crie um modelo para representar um time de um esporte qualquer em um campeonato desse esporte. Que dados e operações esse modelo deve ter?**
 
-R: Em um modelo paraum time é necessário informações como quantidade de jogadores, técnico, estádio, mascote, jogadores e cor da camisa.
+R: <img src="modelo-team.png" alt="Minha Figura">
 
 **8) Identifique e explique o(s) erro(s) na classe abaixo:**
 ```Java
