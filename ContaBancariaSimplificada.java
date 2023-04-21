@@ -11,4 +11,11 @@ public class ContaBancariaSimplificada {
         }
     }
 
+    public void abreContaSimples(int valor){
+        if(valor < 100){
+            System.out.println("Valor baixo demais");
+            return;
+        }
+        this.saldo = valor;
+    }
 }

@@ -8,6 +8,19 @@ R: <img src="modelo-lamp.png" alt="Minha Figura">
 
 R: <img src="modelo-team.png" alt="Minha Figura">
 
+**7)Identifique e explique o(s) erro(s) na classe abaixo:**
+```Java
+class Registro De Eleitor // nomes de classe não podem conter espaços uma alternativa seria simplesmente apagar os espaços ou usar o caractere de underline
+{
+/**
+* Declaração dos campos desta classe
+*/
+int tituloDeEleitor; // número do título do eleitor
+String nome; // nome do eleitor
+short zonaEleitoral; // número da zona eleitoral
+} // fim da classe
+```
+
 **8) Identifique e explique o(s) erro(s) na classe abaixo:**
 ```Java
  class Teste2
